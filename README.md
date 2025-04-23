@@ -28,7 +28,7 @@ The feature selection techniques used are:
 Name : Jude Clement Jose G
 Register Number : 212224230109
 ~~~
-![Screenshot 2025-04-23 154505](https://github.com/user-attachments/assets/50dc1791-7c04-4ed5-9cfe-5458029480c5)
+![image](https://github.com/user-attachments/assets/3a95616b-66fe-404d-9df1-634f18af2a68)
 ![Screenshot 2025-04-23 154518](https://github.com/user-attachments/assets/6dbc6b4a-e65a-4a71-9df5-ef501ff34364)
 ![Screenshot 2025-04-23 154540](https://github.com/user-attachments/assets/e4682bde-12a0-40ba-bb01-31439c5fb739)
 ![Screenshot 2025-04-23 154555](https://github.com/user-attachments/assets/64199dd1-e576-419a-9ce8-cad3d69daeb8)
