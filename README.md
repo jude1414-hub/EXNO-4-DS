@@ -24,6 +24,32 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+~~~
+Name : Jude Clement Jose G
+Register Number : 212224230109
+~~~
+![Screenshot 2025-04-23 154505](https://github.com/user-attachments/assets/50dc1791-7c04-4ed5-9cfe-5458029480c5)
+![Screenshot 2025-04-23 154518](https://github.com/user-attachments/assets/6dbc6b4a-e65a-4a71-9df5-ef501ff34364)
+![Screenshot 2025-04-23 154540](https://github.com/user-attachments/assets/e4682bde-12a0-40ba-bb01-31439c5fb739)
+![Screenshot 2025-04-23 154555](https://github.com/user-attachments/assets/64199dd1-e576-419a-9ce8-cad3d69daeb8)
+![Screenshot 2025-04-23 154610](https://github.com/user-attachments/assets/0dc50f9f-57e8-43e6-b64d-db7719962a94)
+![Screenshot 2025-04-23 154626](https://github.com/user-attachments/assets/f06af809-a2b7-4192-8b2f-fcd7cd3e6023)
+![Screenshot 2025-04-23 154641](https://github.com/user-attachments/assets/4df7914e-ff91-4dcb-a22f-514feab1411e)
+![Screenshot 2025-04-23 154707](https://github.com/user-attachments/assets/178bd9e9-4e07-4ea3-ade0-e9b13e0abfaf)
+![Screenshot 2025-04-23 154723](https://github.com/user-attachments/assets/02334089-5304-4e9d-8474-64204f571269)
+![Screenshot 2025-04-23 154734](https://github.com/user-attachments/assets/25c71b5e-4d8d-460e-8daa-c211a566a4a1)
+![Screenshot 2025-04-23 154752](https://github.com/user-attachments/assets/7963225a-4ed9-4ca3-aeef-0bcb70759b89)
+![Screenshot 2025-04-23 154759](https://github.com/user-attachments/assets/cf3a5522-7027-4d92-87cd-1df8ce0a942c)
+![Screenshot 2025-04-23 154808](https://github.com/user-attachments/assets/ab2ecc5c-42b0-4064-af5f-72912ae4b8b5)
+![Screenshot 2025-04-23 154816](https://github.com/user-attachments/assets/10fdb473-5ef1-4612-809a-c73ca8fa0f6b)
+![Screenshot 2025-04-23 154825](https://github.com/user-attachments/assets/a35a5241-0a92-471e-8b48-cd24575fb3d7)
+![Screenshot 2025-04-23 154836](https://github.com/user-attachments/assets/dffef663-3647-48b7-9ace-77d4592ef801)
+![Screenshot 2025-04-23 154841](https://github.com/user-attachments/assets/5861d664-f8ca-4a27-ae00-a14d1b7fd08b)
+![Screenshot 2025-04-23 154857](https://github.com/user-attachments/assets/84222fee-1dd4-4fac-896c-996e1a0ba0c1)
+![Screenshot 2025-04-23 154908](https://github.com/user-attachments/assets/8512f1e9-98f2-4e57-bcd6-112c1723ff77)
+![Screenshot 2025-04-23 154916](https://github.com/user-attachments/assets/40e3adb3-a8e0-48d3-8a5c-16887955a64d)
+![Screenshot 2025-04-23 154922](https://github.com/user-attachments/assets/8645b34a-ad8e-4354-a5e1-5f6344c5af32)
+![Screenshot 2025-04-23 154929](https://github.com/user-attachments/assets/ee9bf194-30c6-44bb-9ae8-245eb27e202b)
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
